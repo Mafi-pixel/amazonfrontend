@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "clone-c2ee7",
+    "default": "clone-c2ee7"
+  }
+}
